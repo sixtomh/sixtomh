@@ -21,16 +21,7 @@ Here are some of the projects and software ideas I'm exploring.
 ### 💡 Personal Projects
 
 - 💰 **Pesso** — A project focused on personal finance.
-- 🎵 **SounVibe** — A project exploring music and digital experiences.
-- 🍊 **Oranges** — A personal project idea.
-
-### 🧩 Software Solutions
-
-- 🍽️ **Restaurant Management** — Exploring software for restaurant operations and management.
-- 🏋️ **Gym Management** — Exploring tools for gym administration and member management.
-- 💳 **Loan Management** — Exploring software for managing loans, payments, and financial records.
-
-*Project descriptions will evolve as development progresses. Repository links will be added when available.*
+- 🎵 **Sounify Music** — A project exploring music and digital experiences.
 
 ---
 
